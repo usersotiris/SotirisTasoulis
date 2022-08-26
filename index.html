@@ -284,6 +284,13 @@ $(document).ready(function () {
     </li>
   </ul>
 </li>
+<li>
+  <a href="rstuff.html">
+    <span class="fa fa-coffee"></span>
+     
+    R Stuff
+  </a>
+</li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
@@ -330,8 +337,11 @@ Science consultant.</p>
 </div>
 <div>
 <!-- And this block will be put on the right: -->
-<!-- ![](figures/me.jpg){width=60%} -->
-<p><img src="figures/me.jpg" width="85%" style="display: block; margin: auto;" /></p>
+<p><img src="figures/me.jpg" style="width:85.0%" /></p>
+<!-- ```{r, echo=FALSE, fig.align = 'center', out.width = "85%"} -->
+<!-- library(knitr) -->
+<!-- knitr::include_graphics(here::here("figures", "me.jpg")) -->
+<!-- ``` -->
 </div>
 </div>
 <!-- ============== -->
