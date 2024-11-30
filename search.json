@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Research Highlights",
+    "section": "",
+    "text": "Ensemble Clustering for Boundary Detection in High-Dimensional Data\n\n\n\n\n\n\nSotiris\n\n\nNov 13, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nTwo phase cooperative learning for supervised dimensionality reduction\n\n\n\n\n\n\nSotiris\n\n\nNov 23, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sotiris Tasoulis",
+    "section": "",
+    "text": "Associate Professor, Department of Computer Science and Biomedical Informatics, University of Thessaly. Papassiopoulou 2-4, GR-35100, Lamia, Greece. Email: stasoulis (at) uth (dot) gr\n\nAbout\nUntil September 2017 I have been a Lecturer (Assistant Professor) in Applied Mathematics at the School of Computer Science and Mathematics, Liverpool John Moores University, UK.\nUntil September 2015 I have been a Post Doctoral Researcher at the Department of Computer Science, University of Helsinki, Finland.\nI obtained my PhD in 2013 from University of Thessaly, Greece. Before this, I studied Mathematics and got my MSc in Mathematics of Computation and Decision Making at the University of Patras, Greece.\nFrom 2017 to 2023 I worked closely with Signal Ocean, as a Data Science consultant.\n\n\n\n\n\nNews and Travel\n\nAttended LOD 2023 in Grasmere, Lake District, UK, where I presented our paper entitled “Ensemble Clustering for Boundary Detection in High-Dimensional Data”\nAttended WCCI 2022 in Padova, Italy, where I presented our paper entitled “Deep Hybrid Learning for anomaly Detection in biomedical Monitoring”\nStarting March 2022, I will lead as a PI the project “Development of a bronchoscopic biopsies-on-chip (BioOnChip) platform for immunotherapy drug screening in non-small cell lung cancer.” funded by the Operational Program “Competitiveness, Entrepreneurship and Innovation” (EPAnEK), NSRF .\n\n\n\nScientific Interests\n-Clustering -Machine Learning -Large scale Data Mining -Big Data applications\n\n\nDo not forget to check out:\nHiPart: Hierarchical Divisive Clustering Toolbox\nAnagnostou et al., (2023). HiPart: Hierarchical Divisive Clustering Toolbox. Journal of Open Source Software, 8(84), 5024, https://doi.org/10.21105/joss.05024\nFor the extended bibliography check my google scolar profile\n\n\nCurrently Teaching:\nDepartment of Computer Science and Biomedical Informatics, University of Thessaly.\n\n(Winter Semester) Introduction to Programming (C)\n(Winter Semester) Data Mining in Big Data\n(Summer Semester) Deep Learning\n\nMaster of Science, Computer Science and Computational Bio-medicine, University of Thessaly.\n\n(Summer Semester) Subjects of Programming (Python)\n\n\n\nResearchers I supervise/torture:\nPost-doc:\n\nPanagiotis Anagnostou\n\nPhD students:\n\nAthanasios Siouras\nPetros Barbas\nParaskeui Tsakmaki\nKaterina Tsiaktani\nIoannis Nellas"
+  },
+  {
+    "objectID": "posts/post1/post1.html",
+    "href": "posts/post1/post1.html",
+    "title": "Ensemble Clustering for Boundary Detection in High-Dimensional Data",
+    "section": "",
+    "text": "The emergence of novel data collection methods has led to the accumulation of vast amounts of unlabelled data. Discovering well separated groups of data samples through clustering is a critical but challenging task. In recent years various techniques to detect isolated and boundary points have been developed. In this work, we propose a clustering methodology that enables us to discover boundary data effectively, discriminating them from outliers. The proposed methodology utilizes a well established density based clustering method designed for high dimensional data, to develop a new ensemble scheme. The experimental results demonstrate very good performance, indicating that the approach has the potential to be used in diverse domains.\n(Anagnostou, Pavlidis, and Tasoulis 2024)\n\n\n\n\nReferences\n\nAnagnostou, Panagiotis, Nicos G. Pavlidis, and Sotiris Tasoulis. 2024. “Ensemble Clustering for Boundary Detection in High-Dimensional Data.” In Machine Learning, Optimization, and Data Science, edited by Giuseppe Nicosia, Varun Ojha, Emanuele La Malfa, Gabriele La Malfa, Panos M. Pardalos, and Renato Umeton, 324–33. Cham: Springer Nature Switzerland."
+  },
+  {
+    "objectID": "posts/post2/post2.html",
+    "href": "posts/post2/post2.html",
+    "title": "Two phase cooperative learning for supervised dimensionality reduction",
+    "section": "",
+    "text": "The simultaneous minimization of the reconstruction and classification error is a hard non convex problem, especially when a non-linear mapping is utilized. To overcome this obstacle, motivated by the widespread success of Cooperative Neural Networks, an innovative supervised dimensionality reduction framework is proposed, based on a cooperative two phase optimization strategy. Specifically, the proposed framework that requires minimal parameter adjustment consists of an autoencoder for dimensionality reduction and a separator network for separability assessment of the embedding. This scheme results in meaningful and discriminable codes, which are optimized for the classification task and are exploitable by any trainable classifier. The experimental results showed that the proposed methodology achieved competitive results against the state-of-the-art competing methods, while being much more efficient in terms of parameter count. Finally, it was empirically justified that the proposed methodology introduces advanced behavioural explainability, while enabling applicability for image generation tasks.\n(Nellas et al. 2023)\n\n\n\n\nReferences\n\nNellas, Ioannis A., Sotiris K. Tasoulis, Spiros V. Georgakopoulos, and Vassilis P. Plagianakos. 2023. “Two Phase Cooperative Learning for Supervised Dimensionality Reduction.” Pattern Recognition 144: 109871. https://doi.org/https://doi.org/10.1016/j.patcog.2023.109871."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sotiris Tasoulis",
+    "section": "",
+    "text": "At White Frame Architects, we believe in the power of simplicity to create spaces that inspire and endure. Our design philosophy is rooted in minimalism—balancing clean lines, open spaces, and thoughtful details to craft environments that are both functional and timeless. By stripping away the unnecessary, we focus on the essence of architecture, bringing harmony between form and purpose. Whether residential, commercial, or urban, every project is a testament to our commitment to clarity, innovation, and excellence in design. Let us shape your vision into a space that reflects elegance and simplicity."
+  }
+]
